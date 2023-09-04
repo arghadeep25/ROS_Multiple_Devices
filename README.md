@@ -1,5 +1,5 @@
 # Deploy ROS on Multiple Devices
-In the domain of robotics, we
+In the field of robotics, we often encounter scenarios where it is necessary to run the ROS master on a server and connect embedded or edge devices to that server. This repository demonstrates how to connect single or multiple embedded or edge devices to the server
 
 ## Single Publisher and Single Subscriber
 Things to follow
