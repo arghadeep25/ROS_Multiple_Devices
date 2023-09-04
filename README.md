@@ -80,6 +80,6 @@ To test the functionality, try the following repositories.
 
 [Publisher](https://github.com/arghadeep25/ROS-Bare-Bones/tree/rviz_docker)
 
-[Subscriber]()
+[Subscriber](https://github.com/arghadeep25/ROS-Bare-Bones-Sub)
 
 #### Note: Don't forget to change the IP address in the `run.sh` scripts
