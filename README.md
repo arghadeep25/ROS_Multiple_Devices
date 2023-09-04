@@ -7,7 +7,7 @@ Things to follow
 - Get the IP address of the publisher (Linux: `ifconfig`, Windows: `ipconfig`)
 
 <p align="center">
-  <img src="https://github.com/arghadeep25/ROS_Multiple_Devices/blob/master/resources/ros_two_device.png" width="600">
+  <img src="https://github.com/arghadeep25/ROS_Multiple_Devices/blob/master/resources/ros_two_device.png" width="700">
 </p>
 
 Considering the above example, 
@@ -36,3 +36,7 @@ export ROS_MASTER_URI="http://${PUBLISHER_IP}:11311"
 
 
 ## Single Publisher and Multiple Subscriber
+
+<p align="center">
+  <img src="https://github.com/arghadeep25/ROS_Multiple_Devices/blob/master/resources/ros_multiple_device.png" width="700">
+</p>
